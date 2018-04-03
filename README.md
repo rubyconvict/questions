@@ -9,5 +9,7 @@ $ gem install rspec
 ## Run
 
 ```
+$ rspec question001/code_spec.rb
+or
 $ rspec ./**/*_spec.rb
 ```
